@@ -11,3 +11,7 @@ so that when one object changes state, all of its dependents are notified and up
 Decorator pattern is based on open-closed principle which states that classes should be open for extension (adding new classes or functionality)
 but closed for modification.
 This pattern attaches additional responsibilities to an object dynamically.It provides flexible alternative to instead add more subclasses.
+
+## Iterator
+This pattern provides a way to access the elements of an aggregate object (collection of objects like arraylist) sequentially
+without exposing its underlying representation.
